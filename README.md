@@ -1,8 +1,8 @@
-# Compare duas colunas de uma tabela
+# Compare two columns of a table
 
-Script que compara duas colunas de um arquivo csv e mostra se há valores iguais. 
+Script that compares two columns of a csv file and shows if there are equal values.
 
-## Autora
+## Author
 
 * Verônica Scheifer
 
