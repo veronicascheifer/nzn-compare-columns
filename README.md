@@ -4,7 +4,7 @@ Script that compares two columns of a csv file and shows if there are equal valu
 
 ## Author
 
-* Verônica Scheifer
+* Veronica Scheifer
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
